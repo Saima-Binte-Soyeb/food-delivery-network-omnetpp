@@ -1,0 +1,19 @@
+# ---- OMNeT++ build output ----
+out/
+*.o
+*.o.d
+*.exe
+*.so
+*.dll
+*.dylib
+
+# Generated message files (auto-generated from .msg during build)
+*_m.cc
+*_m.h
+
+# Large event-log files
+*.elog
+
+# OS / editor junk
+Thumbs.db
+.DS_Store
